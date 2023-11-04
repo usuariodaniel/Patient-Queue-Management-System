@@ -1,10 +1,10 @@
-## Patient Queue Management System
+# Patient Queue Management System
 
 This repository contains a simple JavaScript-based patient queue management system. The system allows users to add new patients to the queue, consult the next patient in the queue, and exit the system.
 
 ---
 
-# Features
+## Features
 
 Add new patients to the queue
 Consult the next patient in the queue
@@ -12,7 +12,7 @@ Exit the system
 
 ---
 
-# How It Works
+## How It Works
 
 The provided JavaScript code is a simple queue management system for patients using a do...while loop and a switch statement. It allows users to add new patients to the queue, consult the next patient in the queue, and exit the system.
 
@@ -31,7 +31,7 @@ Here's a step-by-step explanation of how the code works:
 
 ---
 
-# Usage
+## Usage
 
 Clone the repository to your local machine.
 
